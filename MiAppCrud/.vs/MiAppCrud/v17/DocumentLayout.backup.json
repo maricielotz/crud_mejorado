@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\ordeneditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\ordeneditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\ordeneditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\ordeneditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7d1a5679-04f2-3f4a-851f-855baa54731c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:08:55.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:08:49.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:08:48.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Orden.cs",
+              "RelativeDocumentMoniker": "Models\\Orden.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Orden.cs",
+              "RelativeToolTip": "Models\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T23:08:13.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\OrdenEditPage.xaml",
+              "RelativeDocumentMoniker": "Views\\OrdenEditPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\OrdenEditPage.xaml",
+              "RelativeToolTip": "Views\\OrdenEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T23:07:53.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\OrdenEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
+              "RelativeToolTip": "Views\\OrdenEditPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:43:16.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductoEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeToolTip": "Views\\ProductoEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:59:06.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

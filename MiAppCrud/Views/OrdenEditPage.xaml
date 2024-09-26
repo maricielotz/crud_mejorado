@@ -1,0 +1,18 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiAppCrud.Views.OrdenEditPage">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label Text="Fecha de la Orden"/>
+            <Entry x:Name="FechaEntry"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Guardar" Clicked="OnSaveClicked"/>
+                <Button Text="Actualizar" Clicked="OnSaveClicked"/>
+                <Button Text="Borrar" Clicked="OnDeleteClicked"/>
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
